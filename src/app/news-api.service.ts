@@ -7,7 +7,7 @@ import { HttpClient  } from '@angular/common/http';
 })
 export class NewsApiService {
   
-  api_key = 'PUT_YOUR_API_KEY_HERE';
+  api_key = 'cff25dca10ef4d208f4cc6256d459ac0';
   
 
   constructor(private http:HttpClient) { }
